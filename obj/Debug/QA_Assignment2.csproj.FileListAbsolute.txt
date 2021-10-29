@@ -1,0 +1,7 @@
+C:\Users\pratiksha.tanna\source\repos\QA_Assignment2\QA_Assignment2\bin\Debug\QA_Assignment2.exe.config
+C:\Users\pratiksha.tanna\source\repos\QA_Assignment2\QA_Assignment2\bin\Debug\QA_Assignment2.exe
+C:\Users\pratiksha.tanna\source\repos\QA_Assignment2\QA_Assignment2\bin\Debug\QA_Assignment2.pdb
+C:\Users\pratiksha.tanna\source\repos\QA_Assignment2\QA_Assignment2\obj\Debug\QA_Assignment2.csprojAssemblyReference.cache
+C:\Users\pratiksha.tanna\source\repos\QA_Assignment2\QA_Assignment2\obj\Debug\QA_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\pratiksha.tanna\source\repos\QA_Assignment2\QA_Assignment2\obj\Debug\QA_Assignment2.exe
+C:\Users\pratiksha.tanna\source\repos\QA_Assignment2\QA_Assignment2\obj\Debug\QA_Assignment2.pdb

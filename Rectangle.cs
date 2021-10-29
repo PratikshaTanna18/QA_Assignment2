@@ -29,22 +29,37 @@ namespace QA_Assignment2
             return length;
         }
         public int SetLength(int length) {
-            this.length = length;
-            return this.length;
+            if (length > 0)
+            {
+                this.length = length;
+                return this.length;
+            }
+            else
+                return 0;
         }
         public int GetWidth() {
             return width;
         }
         public int SetWidth(int width) {
-            this.width = width;
-            return width;
+            if (width > 0)
+            {
+                this.width = width;
+                return width;
+            }
+            else
+                return 0;
         }
         public int GetHeight() {
-            return this.height;
+            return height;
         }
         public int SetHeight(int height) {
-            this.height = height;
-            return this.height;
+            if (height > 0)
+            {
+                this.height = height;
+                return this.height;
+            }
+            else
+                return 0;
         }
         public int GetVolume() {
             return height*width*length;
