@@ -47,7 +47,7 @@ namespace QA_Assignment2
             return this.height;
         }
         public int GetVolume() {
-            return 1;
+            return height*width*length;
         }
     }
 }
